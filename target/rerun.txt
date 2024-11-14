@@ -1,0 +1,7 @@
+file:src/test/resources/featureData/detailsOfFlat.feature:3
+file:src/test/resources/featureData/budgetMaxOption.feature:15:16:17
+file:src/test/resources/featureData/signup.feature:3
+file:src/test/resources/featureData/emiCalculator.feature:3
+file:src/test/resources/featureData/addToShortList.feature:3
+file:src/test/resources/featureData/buyLink.feature:3
+file:src/test/resources/featureData/managecalls.feature:13:21
